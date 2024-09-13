@@ -1,0 +1,13 @@
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: beige;
+    border: 2px solid black;
+    border-radius: 5px;
+    display: grid;
+    place-items: center;
+}
+
+.completed{
+    text-decoration: underline;
+}
