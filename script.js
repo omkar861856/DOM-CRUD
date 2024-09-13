@@ -3,8 +3,15 @@
 // Read operation
 
 const a = document.querySelector('#demo');
+// const a = document.getElementById('demo');
+
 const b = document.getElementsByTagName('h1'); 
+// const b = document.querySelectorAll('h1'); 
+
 const c = document.querySelectorAll('.box');
+// const c = document.getElementsByClassName('box');
+
+
 
 // Update Operation
 
